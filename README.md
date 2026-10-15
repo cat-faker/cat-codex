@@ -1,6 +1,6 @@
 How to use:
 
-Download the Cat Codex file.
+Download the Cat Codex file V3.1 is the Newest Release!!!
 Open your Downloads folder and find the file.
 Double-click it. It shows your browser’s icon, like Google Chrome, and opens in your browser.
 
