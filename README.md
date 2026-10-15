@@ -1,3 +1,11 @@
+How to use:
+
+Download the Cat Codex file.
+Open your Downloads folder and find the file.
+Double-click it. It shows your browser’s icon, like Google Chrome, and opens in your browser.
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 Cat Codex is a free, fan-made companion for The Battle Cats that brings everything players usually hunt for across wikis and guides into one fast, easy app. It works on phones and computers, in light or dark mode. Every number comes straight from the game’s own data files (English version 15.6), not copied by hand.
 
 Cats. Every unit in the English game is here: all 756 cats and 1,943 forms. That’s 10 Normal, 149 Special, 162 Rare, 103 Super Rare, 315 Uber Rare and 17 Legend Rare cats, including 409 True forms and 22 Ultra forms. Search by any form’s name or by unit number. Filter by rarity, the enemy types a cat targets, its abilities, its immunities and its attack type, then sort ten different ways, from highest DPS to cheapest cost. Open any cat to flip between its forms, drag its level from 1 up to its maximum with plus levels, and toggle full treasures. You’ll see health, damage, real DPS, range, attack rate, cost, recharge, speed and knockbacks, along with every ability in plain English, its evolution recipe, its level limits and its talents.
